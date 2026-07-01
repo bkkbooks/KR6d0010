@@ -1,0 +1,220 @@
+canonical_identifier: bkk:krp/KR6d0010/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0010/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華經玄義節要
+  identifiers:
+    krp: KR6d0010
+    cbeta: X28n0589
+    cbeta_old_id: X28n0589
+    authorityid: CA0000878
+    json_key: X0589
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X28/X28n0589.xml
+    old_id: X28n0589
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0010_000-X.yaml, hash: 'sha256:2943c0163f4d7594bf8309734ce76742e9200c58e57ba4dc306531b7a95d503b'}
+  - {seq: 1, filename: KR6d0010_001-X.yaml, hash: 'sha256:ab4d8ef5e2d5c8817910ee71b038bfd0a376d4c5c72c21902e2ec63e704e48d0'}
+  - {seq: 2, filename: KR6d0010_002-X.yaml, hash: 'sha256:98a91412e3d8479b32fba68f73fd0cb21981b4cf33fedf9178b7a5cdf1d83790'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0010_000-X.markers.yaml, hash: 'sha256:80afe1d9c164c8cfb513748882d00eddcd92d059b7b7a10b79a7e72b996e8894'}
+  - {seq: 1, role: markers, filename: assets/KR6d0010_001-X.markers.yaml, hash: 'sha256:7769314c1354231a2fb95dbe973c2de1d5f49fe2558c766999401bb780b2b11d'}
+  - {seq: 2, role: markers, filename: assets/KR6d0010_002-X.markers.yaml, hash: 'sha256:6598ad77255000ba059b1e5ba553eef6f671a0b9c0461dc0a0cc2cbe1cff1f07'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0010_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 妙玄節要標條
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0010_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 25816
+  label: 妙法蓮華經玄義節要卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0010_X_001-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0010_X_001-mulu-2
+    span:
+    - body
+    - 623
+    - 623
+  label: 初通釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0010_X_001-mulu-3
+    span:
+    - body
+    - 623
+    - 623
+  label: 一標章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0010_X_001-mulu-4
+    span:
+    - body
+    - 2738
+    - 2738
+  label: 二引證
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0010_X_001-mulu-5
+    span:
+    - body
+    - 3134
+    - 3134
+  label: 三生起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0010_X_001-mulu-6
+    span:
+    - body
+    - 3243
+    - 3243
+  label: 四開合
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0010_X_001-mulu-7
+    span:
+    - body
+    - 3504
+    - 3504
+  label: 五料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0010_X_001-mulu-8
+    span:
+    - body
+    - 3995
+    - 3995
+  label: 六觀心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0010_X_001-mulu-9
+    span:
+    - body
+    - 4792
+    - 4792
+  label: 七會異
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0010_X_001-mulu-10
+    span:
+    - body
+    - 4954
+    - 4954
+  label: 二別釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0010_X_001-mulu-11
+    span:
+    - body
+    - 4960
+    - 4960
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0010_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 22069
+  label: 妙法蓮華經玄義節要卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0010_X_002-mulu-1
+    span:
+    - body
+    - 15183
+    - 15183
+  label: 第二辨體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0010_X_002-mulu-2
+    span:
+    - body
+    - 17300
+    - 17300
+  label: 第三明宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0010_X_002-mulu-3
+    span:
+    - body
+    - 18096
+    - 18096
+  label: 第四論用
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0010_X_002-mulu-4
+    span:
+    - body
+    - 18753
+    - 18753
+  label: 第五判教
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0010_X_002-mulu-5
+    span:
+    - body
+    - 21856
+    - 21856
+  label: No. 589-A 妙玄節要䟦
+  type: mulu
+  level: 1
+hash: sha256:2ff2f60d947f8520e1cafdfc5cfbf1142eec81e13a1dab590a2b56acf1808e1b
