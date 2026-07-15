@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0010/v1
 canonical_location: https://kanripo.org/bkk/KR6d0010/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 法華經玄義節要
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0010_000.yaml, hash: 'sha256:2943c0163f4d7594bf8309734ce76742e9200c58e57ba4dc306531b7a95d503b'}
-  - {seq: 1, filename: KR6d0010_001.yaml, hash: 'sha256:ab4d8ef5e2d5c8817910ee71b038bfd0a376d4c5c72c21902e2ec63e704e48d0'}
-  - {seq: 2, filename: KR6d0010_002.yaml, hash: 'sha256:98a91412e3d8479b32fba68f73fd0cb21981b4cf33fedf9178b7a5cdf1d83790'}
+  - {seq: 0, filename: KR6d0010_000.yaml, hash: 'sha256:5a93ac52f941ab96558ce11493a01943ca92a8130bcd35db3860a2ffceb037a9'}
+  - {seq: 1, filename: KR6d0010_001.yaml, hash: 'sha256:b00a4fa1d71d240a05d7fc4c8f79dbd22778e6ecc76e32a8ae0b8fd9926c2576'}
+  - {seq: 2, filename: KR6d0010_002.yaml, hash: 'sha256:1352b0d40497ea24b6121f55503362f5e54f052148a5cead1a15cef916908a1a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0010_000.markers.yaml, hash: 'sha256:df011debaedd2d1d2e893de553ec711a6df70e2fc3fbd7dea8985b6dd617c278'}
-  - {seq: 1, role: markers, filename: assets/KR6d0010_001.markers.yaml, hash: 'sha256:9822cea13d4649856ce658684d10d66de2eab5850ae1fbbab5b8c7d665acc54b'}
-  - {seq: 2, role: markers, filename: assets/KR6d0010_002.markers.yaml, hash: 'sha256:a5832af26fdd89dd2fe350884e9573123e274374ccf918cff6a64a0ae4084e9e'}
+  - {seq: 0, role: markers, filename: assets/KR6d0010_000.markers.yaml, hash: 'sha256:ef5e2a413ddaf4731fd381d561ddd3e82172ac7e4cc4bd1d1200eabf1a8c582e'}
+  - {seq: 1, role: markers, filename: assets/KR6d0010_001.markers.yaml, hash: 'sha256:85f112abc7848b15a02fa2fdbb723c0592d6ee09a9a096ac19e041ad85ed406c'}
+  - {seq: 2, role: markers, filename: assets/KR6d0010_002.markers.yaml, hash: 'sha256:867fbeaacb81f9a05e8378b2765a936354b7b909b677958e971c1ab5481e6f9b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -219,4 +219,7 @@ table_of_contents:
   label: No. 589-A 妙玄節要䟦
   type: mulu
   level: 1
-hash: sha256:3fbcd167c45aca981a3f4eab384182427e6f81c78f143795d22862439197ed12
+hash: sha256:8c4185e4b6df4472ac27b6e83fa0822f38ce4f3649d387f7add89df7784c5640
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
