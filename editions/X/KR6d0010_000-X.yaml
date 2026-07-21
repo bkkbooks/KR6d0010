@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6d0010/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 妙玄節要標條釋名體宗用教五章初通釋七一標章二引證三生起四開合五料簡六觀心七會異二別釋第一釋名三一判通別二定前後三正解二初略示次廣說二初法三一眾生二佛三心次妙二一通釋別釋二一迹十妙境智行位三法感應神通說法眷屬功德利益二本十妙因果國土感應神通說法眷屬涅槃壽命利益釋蓮華釋經字第二辨體第三明宗第四論用第五判教妙玄節要標條終妙法蓮華經玄義節要
   hash: sha256:2238910f3027f256aaa264cdeae344783097e2ac7c40b95e1b70b89f313e6884
   markers:
   - {type: 其他, offset: 0, content: 妙玄節要標條, id: KR6d0010_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 法華經玄義節要
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X28/X28n0589.xml
     old_id: X28n0589
-hash: sha256:2943c0163f4d7594bf8309734ce76742e9200c58e57ba4dc306531b7a95d503b
+hash: sha256:f79bc68347092d47c99301d94a04dc2e9fb854b9cad415cae9733d8269875d19

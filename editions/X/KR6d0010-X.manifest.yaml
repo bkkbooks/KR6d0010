@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0010_000-X.yaml, hash: 'sha256:2943c0163f4d7594bf8309734ce76742e9200c58e57ba4dc306531b7a95d503b'}
+  - {seq: 0, filename: KR6d0010_000-X.yaml, hash: 'sha256:f79bc68347092d47c99301d94a04dc2e9fb854b9cad415cae9733d8269875d19'}
   - {seq: 1, filename: KR6d0010_001-X.yaml, hash: 'sha256:ab4d8ef5e2d5c8817910ee71b038bfd0a376d4c5c72c21902e2ec63e704e48d0'}
   - {seq: 2, filename: KR6d0010_002-X.yaml, hash: 'sha256:98a91412e3d8479b32fba68f73fd0cb21981b4cf33fedf9178b7a5cdf1d83790'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0010_000-X.markers.yaml, hash: 'sha256:80afe1d9c164c8cfb513748882d00eddcd92d059b7b7a10b79a7e72b996e8894'}
+  - {seq: 0, role: markers, filename: assets/KR6d0010_000-X.markers.yaml, hash: 'sha256:49c9555d61d0b04fd2d484f46a9b1769d8051b29f56f078b40f044d4e05a255c'}
   - {seq: 1, role: markers, filename: assets/KR6d0010_001-X.markers.yaml, hash: 'sha256:7769314c1354231a2fb95dbe973c2de1d5f49fe2558c766999401bb780b2b11d'}
   - {seq: 2, role: markers, filename: assets/KR6d0010_002-X.markers.yaml, hash: 'sha256:6598ad77255000ba059b1e5ba553eef6f671a0b9c0461dc0a0cc2cbe1cff1f07'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0010_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 妙玄節要標條
@@ -217,4 +217,4 @@ table_of_contents:
   label: No. 589-A 妙玄節要䟦
   type: mulu
   level: 1
-hash: sha256:2ff2f60d947f8520e1cafdfc5cfbf1142eec81e13a1dab590a2b56acf1808e1b
+hash: sha256:1d30bb354f8921c6155cc8db9af015b7c5c18f63f4513f63dec163482be079fc
